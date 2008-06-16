@@ -1,0 +1,11 @@
+Changes
+Int32.xs
+Makefile.PL
+MANIFEST
+META.yml
+ppport.h
+README
+t/Math-Int32.t
+t/Math-UInt32.t
+t/pods.t
+lib/Math/Int32.pm
